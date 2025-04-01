@@ -1,0 +1,27 @@
+visual studio code
+    console ninja
+    eslint
+    github copilot
+    github copilot chat
+    javascript extensions pack
+    live server
+    live share
+    postman
+    pretiere
+    pylance
+    python
+    puthon debugger
+    quokka.js
+    tabnine
+    thunder client
+    wallaby.js
+    WSL
+    micorsoft edge tools for VS code
+
+node.js
+postman, insomnia
+Git bush
+
+nivalenzuela.dwfs18
+
+https://aulasonline.udd.cl/login/index.php?utm_campaign=Flow%20Alumnos%20-%20Gen%C3%A9rico&utm_medium=email&_hsenc=p2ANqtz-9xMc2KUav4fRBrECPOqq_92aNxnGKdfR7vs3KHK9drZt8cbBLU6lhgOnqkgSlm1Sj3F1kmRktuykzM9Weu8BLWQAX9INgGxtUoVl_BQJNTsNwrJuI&_hsmi=333621649&utm_content=333621649&utm_source=hs_email
